@@ -1,7 +1,15 @@
-const Button = () => {
+import PropTypes from "prop-types"
+
+const Button = ({ styles }) => {
   return (
-    <div>Button</div>
+    <button type="button" className={`py-4 px-6 bg-blue-gradient font-poppins font-medium text-[18px] text-primary rounded-lg outline-none ${styles}`}>
+      Get Started
+    </button>
   )
+}
+
+Button.propTypes = {
+  styles: PropTypes.string
 }
 
 export default Button
