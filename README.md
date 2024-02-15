@@ -14,7 +14,7 @@ npm run dev
 ```
 ## 🔗 Layout
 You can view the project layout through 
-[desse link](https://www.figma.com/file/EvTvPFb6UBdEU8Wh0IWeQS/NeuroBank?type=design&node-id=0-1&mode=design&t=seHTPd1FgYQTEC0b-0). 
+[from this link](https://www.figma.com/file/EvTvPFb6UBdEU8Wh0IWeQS/NeuroBank?type=design&node-id=0-1&mode=design&t=seHTPd1FgYQTEC0b-0). 
 You must have an account on
 [Figma](https://www.figma.com)
 
